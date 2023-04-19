@@ -1,4 +1,6 @@
-## The goal of the project is to create a world knowledge skill for a chatbot. It involves using Natural Language Processing algorithms to summarize a topic-related world knowledge into a concise response to be used by the chatbot.
+# Goal 
+
+To create a world knowledge skill for a chatbot. It involves using Natural Language Processing algorithms to summarize a topic-related world knowledge into a concise response to be used by the chatbot. It is focuses primarly on German text.
 
 It should be able to:
 
