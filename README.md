@@ -1,4 +1,4 @@
-##The goal of the project is to create a world knowledge skill for a chatbot. It involves using Natural Language Processing algorithms to summarize a topic-related world knowledge into a concise response to be used by the chatbot.
+## The goal of the project is to create a world knowledge skill for a chatbot. It involves using Natural Language Processing algorithms to summarize a topic-related world knowledge into a concise response to be used by the chatbot.
 
 It should be able to:
 
@@ -6,7 +6,7 @@ Understand user utterance.
 Retrieve relevant data for the user prompt. 
 Summarize world knowledge into concise text for the chatbot
 
-It involves the following tools and technologies:
+### Tools and technologies
 
 Hugging Face DialogFlow Python Pytorch
 
