@@ -1,0 +1,7 @@
+eventregistry
+flask
+newsapi-python
+transformers
+protobuf==3.20.0
+sentencepiece
+requests
