@@ -1,16 +1,29 @@
 # Goal 
 
-To create a world knowledge skill for a chatbot. It involves using Natural Language Processing algorithms to summarize a topic-related world knowledge into a concise response to be used by the chatbot. It is focuses primarly on German text.
+This project aims to create a world knowledge skill for a chatbot using Natural Language Processing (NLP) algorithms. The focus of this skill is to provide concise responses to user prompts related to various topics in German language like current affairs, established facts and food recipes.
 
-It should be able to:
+The project involves using state-of-the-art NLP models to understand user utterances and retrieve relevant data from a knowledge base. The retrieved data is then summarized into a concise response using NLP techniques such as text summarization.
 
-Understand user utterance.
-Retrieve relevant data for the user prompt. 
-Summarize world knowledge into concise text for the chatbot
+The skill can be integrated into any chatbot platform and can be used to enhance the chatbot's ability to provide informative and accurate responses to user queries.
 
 ### Tools and technologies
 
-Hugging Face DialogFlow Python Pytorch
+Frontend:
+    React.js
+
+Middleware:
+    Dialogflow
+    
+Backend:
+    Python
+    Huggingface 
+    Transformers
+    Pytorch
+    
+API's:
+    Wikipedia
+    Event registry
+    Mealdb
 
 # to run on your local machine please follow;
 
